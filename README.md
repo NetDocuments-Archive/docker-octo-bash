@@ -2,7 +2,7 @@
 
 A docker container that contains octo.exe
 
-Based off of microsoft/powershell
+Same as [this docker container](https://github.com/NetDocuments/docker-octo) but bash not powershell
 
 ## Building
 
